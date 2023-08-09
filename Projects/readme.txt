@@ -1,1 +1,1 @@
-Data Science Boot Camp
+Data Science Projects
